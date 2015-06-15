@@ -1,0 +1,9 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.38.1 clang-700.0.53)"
+options: "3995c5aae209e28eba8f7c294fe490b5"
+inputs: 
+- "/Users/keithelliott/Downloads/ListerforwatchOSiOSandOSX/Swift/Lister WatchKit Extension/Glance/GlanceInterfaceController.swift"
+- "/Users/keithelliott/Downloads/ListerforwatchOSiOSandOSX/Swift/Lister WatchKit Extension/ListInterfaceController.swift"
+- "/Users/keithelliott/Downloads/ListerforwatchOSiOSandOSX/Swift/Lister WatchKit Common/ColoredTextRowController.swift"
+- "/Users/keithelliott/Downloads/ListerforwatchOSiOSandOSX/Swift/Lister WatchKit Common/Glance/GlanceBadge.swift"
+- "/Users/keithelliott/Downloads/ListerforwatchOSiOSandOSX/Swift/Lister WatchKit Common/ListItemRowController.swift"
+- "/Users/keithelliott/Downloads/ListerforwatchOSiOSandOSX/Swift/Lister WatchKit Extension/ListsInterfaceController.swift"
